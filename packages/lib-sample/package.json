@@ -1,5 +1,5 @@
 {
-  "name": "lib-sample",
+  "name": "@rngueco/lib-sample",
   "version": "0.2.0",
   "private": false,
   "type": "module",
