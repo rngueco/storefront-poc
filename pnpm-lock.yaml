@@ -21,8 +21,8 @@ importers:
   apps/mf-sample:
     dependencies:
       '@rngueco/lib-sample':
-        specifier: 0.2.0
-        version: 0.2.0(@babel/core@7.28.5)(jiti@2.6.1)(postcss@8.5.6)(typescript@5.9.3)
+        specifier: 0.3.0
+        version: 0.3.0(@babel/core@7.28.5)(jiti@2.6.1)(postcss@8.5.6)(typescript@5.9.3)
       next:
         specifier: 16.0.6
         version: 16.0.6(@babel/core@7.28.5)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
@@ -690,8 +690,8 @@ packages:
     resolution: {integrity: sha512-nn5ozdjYQpUCZlWGuxcJY/KpxkWQs4DcbMCmKojjyrYDEAGy4Ce19NN4v5MduafTwJlbKc99UA8YhSVqq9yPZA==}
     engines: {node: '>=12.4.0'}
 
-  '@rngueco/lib-sample@0.2.0':
-    resolution: {integrity: sha512-QObwUzTkPdGIyqyx0287yGrpqKxyr9Zewct61+d5o01DlzZcO+gOh4KXaWBPiP2udwy9O7xGrM3KaEnjBR1Rmg==}
+  '@rngueco/lib-sample@0.3.0':
+    resolution: {integrity: sha512-b5eMnxfneWI8fqs3Q0XOHHeeLbJwZeZJKn+LP8RFPmFMI/fXdeG233oP4MBJZWXW6vYMIuNShhn7ABur61moYQ==}
 
   '@rollup/rollup-android-arm-eabi@4.53.3':
     resolution: {integrity: sha512-mRSi+4cBjrRLoaal2PnqH82Wqyb+d3HsPUN/W+WslCXsZsyHa9ZeQQX/pQsZaVIWDkPcpV6jJ+3KLbTbgnwv8w==}
@@ -3260,7 +3260,7 @@ snapshots:
 
   '@nolyfill/is-core-module@1.0.39': {}
 
-  '@rngueco/lib-sample@0.2.0(@babel/core@7.28.5)(jiti@2.6.1)(postcss@8.5.6)(typescript@5.9.3)':
+  '@rngueco/lib-sample@0.3.0(@babel/core@7.28.5)(jiti@2.6.1)(postcss@8.5.6)(typescript@5.9.3)':
     dependencies:
       next: 16.0.6(@babel/core@7.28.5)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
       react: 19.2.0
